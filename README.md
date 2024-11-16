@@ -21,6 +21,9 @@ This project is a web-based application that finds the shortest path between two
 ## 🎯 Purpose  
 This project demonstrates the practical application of **data structures** and **algorithms** in solving real-world problems.  
 
+## 📷 Demo  
+Check out the live demo (https://najma845.github.io/dijkstra-algorithm_shortest-path-finder/)
+
 ## 📂 Project Structure  
 ```plaintext
 ├── index.html       # HTML structure of the project
